@@ -14,7 +14,8 @@ Because Antigravity can read files, the best way to do this is to create a tempo
 
 1. Create a file called `todo.md` (or `plan.md`) in your project.
 2. Write down your requirements clearly.
-   - Example: *"We need a new page for 'Team Bios'. It needs a grid of 6 cards showing a photo, name, and fun fact. The photos should be circular."*
+
+<AntigravityArtifact type="plan" content="We need a new page for 'Team Bios'. It needs a grid of 6 cards showing a photo, name, and fun fact. The photos should be circular." />
 
 ---
 

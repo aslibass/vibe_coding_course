@@ -32,6 +32,13 @@ An Agent is an AI that has hands and eyes. When you chat with Antigravity, it ca
 3. **Run** terminal commands (like starting your server or deploying your code).
 4. **See** the results of those commands and fix its own errors before it even tells you about them!
 
+<BlueprintDiagram mermaidCode={`graph TD;
+  User[You] -->|Spec| Agent[Antigravity];
+  Agent -->|Reads Files| IDE[Code Editor];
+  Agent -->|Writes Code| IDE;
+  Agent -->|Runs Commands| Terminal;
+  Terminal -->|Logs/Errors| Agent;`}/>
+
 As a Manager, your job shifts from manually moving code around to simply providing excellent **Spec Sheets** and reviewing the work Antigravity does on your behalf.
 
 You still need the **Precision of Intent** you learned in Session 1, but now the machine takes care of the copy/pasting.

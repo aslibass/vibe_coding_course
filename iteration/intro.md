@@ -33,6 +33,12 @@ If the Observation reveals an error, you immediately loop back to Thought, refin
 
 We do this dozens, sometimes hundreds, of times during a single project.
 
+<BlueprintDiagram mermaidCode={`graph TD;
+  T[Thought] --> A[Action];
+  A --> O[Observation];
+  O -->|Error| T;
+  O -->|Success| Merge[Merge & Celebrate];`}/>
+
 ---
 
 ## 🛠️ Resources for Today

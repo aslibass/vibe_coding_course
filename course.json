@@ -1,0 +1,90 @@
+{
+  "courseId": "vibe-101",
+  "title": "Vibe Coding Course",
+  "author": "Viren",
+  "theme": {
+    "accent": "#4F46E5",
+    "background": "dark"
+  },
+  "structure": [
+    {
+      "module": "Pre Flight",
+      "slug": "pre-flight",
+      "lessons": [
+        { "title": "Introduction", "path": "pre_flight/intro.md" },
+        { "title": "Local Setup", "path": "pre_flight/setup.md" }
+      ]
+    },
+    {
+      "module": "Identity",
+      "slug": "identity",
+      "lessons": [
+        { "title": "Introduction", "path": "identity/intro.md" },
+        { "title": "Principles", "path": "identity/principles.md" },
+        { "title": "Master Prompt", "path": "identity/master_prompt.md" }
+      ]
+    },
+    {
+      "module": "Iteration",
+      "slug": "iteration",
+      "lessons": [
+        { "title": "Introduction", "path": "iteration/intro.md" },
+        { "title": "Debugging Guide", "path": "iteration/debugging.md" },
+        { "title": "Challenges", "path": "iteration/challenges.md" }
+      ]
+    },
+    {
+      "module": "Logic",
+      "slug": "logic",
+      "lessons": [
+        { "title": "Introduction", "path": "logic/intro.md" },
+        { "title": "Firebase Setup", "path": "logic/firebase.md" },
+        { "title": "Miracle Tracker Spec", "path": "logic/miracle_tracker.md" }
+      ]
+    },
+    {
+      "module": "Graduation",
+      "slug": "graduation",
+      "lessons": [
+        { "title": "Introduction", "path": "graduation/intro.md" },
+        { "title": "Auth Guide", "path": "graduation/auth.md" },
+        { "title": "Deployment", "path": "graduation/deployment.md" }
+      ]
+    },
+    {
+      "module": "Antigravity",
+      "slug": "antigravity",
+      "lessons": [
+        { "title": "Introduction", "path": "antigravity/intro.md" },
+        { "title": "Setup", "path": "antigravity/setup.md" },
+        { "title": "Workflow", "path": "antigravity/workflow.md" },
+        { "title": "Starter Prompt", "path": "antigravity/starter_prompt.md" }
+      ]
+    },
+    {
+      "module": "Github",
+      "slug": "github",
+      "lessons": [
+        { "title": "Introduction", "path": "github/intro.md" },
+        { "title": "Basics", "path": "github/basics.md" },
+        { "title": "Collaboration", "path": "github/collaboration.md" }
+      ]
+    },
+    {
+      "module": "Railway",
+      "slug": "railway",
+      "lessons": [
+        { "title": "Introduction", "path": "railway/intro.md" },
+        { "title": "Deployment", "path": "railway/deployment.md" }
+      ]
+    },
+    {
+      "module": "Resources",
+      "slug": "resources",
+      "lessons": [
+        { "title": "System Instructions", "path": "resources/system_instructions.md" },
+        { "title": "Lexicon", "path": "resources/lexicon.md" }
+      ]
+    }
+  ]
+}
