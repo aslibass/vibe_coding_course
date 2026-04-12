@@ -34,8 +34,8 @@ It lives in the cloud, meaning your data is safe even if your computer breaks.
 
 ## 🛠️ Resources for Today
 
-- **[Firebase_Setup.md](./Firebase_Setup.md)**: A step-by-step guide to setting up your free Google Firebase account and getting the keys to your filing cabinet.
-- **[Miracle_Tracker_Spec.md](./Miracle_Tracker_Spec.md)**: Instead of a Master Prompt, we use a formal "Specification Sheet" to tell the AI exactly what kinds of data we need to save for our new Praise Report application.
+- **[Firebase_Setup.md](./firebase.md)**: A step-by-step guide to setting up your free Google Firebase account and getting the keys to your filing cabinet.
+- **[Miracle_Tracker_Spec.md](./miracle_tracker.md)**: Instead of a Master Prompt, we use a formal "Specification Sheet" to tell the AI exactly what kinds of data we need to save for our new Praise Report application.
 
 Let's start remembering! 💾
 

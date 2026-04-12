@@ -10,24 +10,25 @@ Just open a new, blank folder in your code editor, open Antigravity, and paste t
 
 ### Copy and Paste this into Antigravity:
 
-```text
-Act as an expert Frontend Developer and build a local sandbox for me.
+<AIStudioLauncher 
+  instructions="Copy this prompt, create a new blank folder in your code editor, open Antigravity, and paste the prompt. Antigravity will do all the heavy lifting."
+  prompt={`Act as an expert Frontend Developer and build a local sandbox for me.
 
-Please execute the terminal commands to scaffold a new React project in this current directory using Vite (use the `react` template). Do not put it in a sub-folder; initialize it right here.
+Please execute the terminal commands to scaffold a new React project in this current directory using Vite (use the \`react\` template). Do not put it in a sub-folder; initialize it right here.
 
 Once the scaffolding is complete, please run the following installations:
-1. Install standard dependencies (`npm install`).
-2. Install Tailwind CSS and its peers (`npm install -D tailwindcss postcss autoprefixer`).
-3. Install our primary libraries (`npm install lucide-react firebase`).
+1. Install standard dependencies (\`npm install\`).
+2. Install Tailwind CSS and its peers (\`npm install -D tailwindcss postcss autoprefixer\`).
+3. Install our primary libraries (\`npm install lucide-react firebase\`).
 
 After installation:
-1. Initialize `tailwind.config.js` and configure it to scan the `./index.html` and `./src` paths for content.
-2. Initialize `postcss.config.js`.
-3. Wipe out the default CSS in `src/index.css` and replace it entirely with the three core `@tailwind` directives.
-4. Replace `src/App.jsx` with a clean, centered, well-styled placeholder screen that says "Welcome to the Vibe Coding Sandbox" using Tailwind classes (slate, white, and a slight shadow). 
+1. Initialize \`tailwind.config.js\` and configure it to scan the \`./index.html\` and \`./src\` paths for content.
+2. Initialize \`postcss.config.js\`.
+3. Wipe out the default CSS in \`src/index.css\` and replace it entirely with the three core \`@tailwind\` directives.
+4. Replace \`src/App.jsx\` with a clean, centered, well-styled placeholder screen that says "Welcome to the Vibe Coding Sandbox" using Tailwind classes (slate, white, and a slight shadow). 
 
-When you are completely finished, let me know, but do not start the dev server yourself. I will start it when I am ready.
-```
+When you are completely finished, let me know, but do not start the dev server yourself. I will start it when I am ready.`} 
+/>
 
 ---
 

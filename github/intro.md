@@ -12,8 +12,8 @@ Welcome to **Level 3: Mastering GitHub**.
 
 | Module | Description |
 |---|---|
-| **[Version_Control_Basics.md](./Version_Control_Basics.md)** | Learn how to save your work (Commits) and travel back in time when things break. |
-| **[Collaboration_Guide.md](./Collaboration_Guide.md)** | How to share your code and collaborate with other Vibe Coders safely. |
+| **[Version_Control_Basics.md](./basics.md)** | Learn how to save your work (Commits) and travel back in time when things break. |
+| **[Collaboration_Guide.md](./collaboration.md)** | How to share your code and collaborate with other Vibe Coders safely. |
 
 ---
 

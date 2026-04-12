@@ -14,7 +14,7 @@ Welcome to **Railway**.
 
 | Module | Description |
 |---|---|
-| **[Railway_Deployment.md](./Railway_Deployment.md)** | Learn how to deploy a full-stack application (Frontend + Backend + Database) to Railway with just your GitHub account. |
+| **[Railway_Deployment.md](./deployment.md)** | Learn how to deploy a full-stack application (Frontend + Backend + Database) to Railway with just your GitHub account. |
 
 ---
 

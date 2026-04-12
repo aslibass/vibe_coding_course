@@ -42,8 +42,8 @@ Deployment is the act of compressing all your nice code into a tiny package and 
 
 ## 🛠️ Resources for Today
 
-- **[Auth_Guide.md](./Auth_Guide.md)**: Steps and prompts for adding Google Sign-in to your app and locking down your database.
-- **[Deployment_Checklist.md](./Deployment_Checklist.md)**: The final countdown. Steps to push your app to the public web.
+- **[Auth_Guide.md](./auth.md)**: Steps and prompts for adding Google Sign-in to your app and locking down your database.
+- **[Deployment_Checklist.md](./deployment.md)**: The final countdown. Steps to push your app to the public web.
 
 Let's ship it! 🚢
 

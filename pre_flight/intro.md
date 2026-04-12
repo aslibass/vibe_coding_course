@@ -54,7 +54,7 @@ Please run through this final checklist to ensure you're fully prepared:
 - [ ] I have created and verified my [GitHub](https://github.com/) account.
 - [ ] I know my Google and GitHub passwords and have them saved securely.
 - [ ] I have scheduled uninterrupted time (2 hours) for our sessions.
-- [ ] **Crucial:** I have completed the [Local Setup Guide](./Local_Setup.md) to install Node.js, my Code Editor, and my Terminal setup.
+- [ ] **Crucial:** I have completed the [Local Setup Guide](./setup.md) to install Node.js, my Code Editor, and my Terminal setup.
 
 ---
 

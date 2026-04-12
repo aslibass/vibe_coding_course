@@ -43,8 +43,8 @@ We do this dozens, sometimes hundreds, of times during a single project.
 
 ## 🛠️ Resources for Today
 
-- **[Debugging_Guide.md](./Debugging_Guide.md)**: Your step-by-step instruction manual for solving broken code and fixing UI issues.
-- **[Challenges.md](./Challenges.md)**: Your playground for today. Three bite-sized tasks to practice iteration and adding features.
+- **[Debugging_Guide.md](./debugging.md)**: Your step-by-step instruction manual for solving broken code and fixing UI issues.
+- **[Challenges.md](./challenges.md)**: Your playground for today. Three bite-sized tasks to practice iteration and adding features.
 
 Let's break things and fix them! 🔄
 

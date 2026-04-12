@@ -12,8 +12,9 @@ By using constraints, we guarantee a professional result.
 
 ---
 
-```text
-Act as an expert Frontend Developer and UI/UX Designer.
+<AIStudioLauncher 
+  instructions="Copy this prompt, modify the bracketed information [LIKE THIS] to match your personal details, and paste it into Google AI Studio."
+  prompt={`Act as an expert Frontend Developer and UI/UX Designer.
 
 I need you to build a single-page Personal & Ministry Bio website.
 This must be a completely contained artifact that I can easily deploy.
@@ -56,5 +57,5 @@ Please include the following sections on the page:
    - Church/Organization Website: "[www.yourchurch.org]"
    - A concluding encouraging thought: "Let's build something good together."
 
-Please write the full React component now.
-```
+Please write the full React component now.`} 
+/>

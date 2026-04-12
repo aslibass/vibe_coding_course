@@ -14,9 +14,9 @@ Welcome to Level 2. Welcome to **Antigravity**.
 
 | Module | Description |
 |---|---|
-| **[Antigravity_Setup.md](./Antigravity_Setup.md)** | Learn how to install and interact with Antigravity, your new autonomous coding agent. |
-| **[Agentic_Workflow.md](./Agentic_Workflow.md)** | The "Spec-and-Review" loop. How to hand off entire features (like a database integration) to Antigravity and review its pull requests. |
-| **[Starter_Template_Prompt.md](./Starter_Template_Prompt.md)** | The master prompt to have Antigravity run terminal commands and build a React/Tailwind base from scratch. |
+| **[Antigravity_Setup.md](./setup.md)** | Learn how to install and interact with Antigravity, your new autonomous coding agent. |
+| **[Agentic_Workflow.md](./workflow.md)** | The "Spec-and-Review" loop. How to hand off entire features (like a database integration) to Antigravity and review its pull requests. |
+| **[Starter_Template_Prompt.md](./starter_prompt.md)** | The master prompt to have Antigravity run terminal commands and build a React/Tailwind base from scratch. |
 
 ---
 
